@@ -57,6 +57,7 @@ I would like to be able to play rock/paper/scissors
 ```
 
 ## <a name="Approach">Approach</a>
+To approach this challenge, I broke down the second user story into several several user stories:
 ```
 As a user
 So I can select Rock, Paper or Scissors
